@@ -1,3 +1,9 @@
+# Waiter app
+
+Aplikacja rezerwacji stolików stworzona w trakcie nauki Reacta. Wersja demo [Waiter app](https://polar-lake-34101.herokuapp.com)
+<br />
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
